@@ -60,8 +60,3 @@ O objetivo é auxiliar alunos de uma autoescola, consultando dados de suas aulas
 5. Criação do bot no Telegram e obtenção do token.  
 6. Desenvolvimento da Azure Function em JavaScript para conectar ao bot.  
 7. Teste do bot no Telegram (print incluído).  
-
----
-
-## 🎥 Opcional
-Um vídeo mostrando o passo a passo pode ser incluído para complementar a entrega.
