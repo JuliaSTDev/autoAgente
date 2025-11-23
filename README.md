@@ -33,13 +33,13 @@ O objetivo é auxiliar alunos de uma autoescola, consultando dados de suas aulas
 ## 🖼️ Prints de execução
 
 ### 1. Teste no Playground do Foundry
-![Playground do agente](playgroundAgente.png)
+![Playground do agente](playgroundAgente.jpg)
 
 ### 2. Azure Function rodando
-![Logs da Azure Function](azureFunction.png)
+![Logs da Azure Function](azureFunction.jpg)
 
 ### 3. Bot do Telegram funcionando
-![Bot do Telegram](botTelegram.png)
+![Bot do Telegram](botTelegram.jpg)
 
 
 
